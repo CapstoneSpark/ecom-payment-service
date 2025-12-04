@@ -1,35 +1,3 @@
-//package com.example.demo.dto;
-//
-//public class OrderItemDto {
-//    private Long productId;
-//    private String sku; 
-//    
-//     public String getSku() {
-//		return sku;
-//	}
-//	public void setSku(String sku) {
-//		this.sku = sku;
-//	}
-//	// for DB Product ID
-//        // optional SKU from cart
-//
-//    private Integer quantity;
-//    private Long unitPrice; // paise
-//    private String name;
-//    private String image;
-//
-//    // getters & setters
-//    public Long getProductId() { return productId; }
-//    public void setProductId(Long productId) { this.productId = productId; }
-//    public Integer getQuantity() { return quantity; }
-//    public void setQuantity(Integer quantity) { this.quantity = quantity; }
-//    public Long getUnitPrice() { return unitPrice; }
-//    public void setUnitPrice(Long unitPrice) { this.unitPrice = unitPrice; }
-//    public String getName() { return name; }
-//    public void setName(String name) { this.name = name; }
-//    public String getImage() { return image; }
-//    public void setImage(String image) { this.image = image; }
-//}
 
 
 package com.example.demo.dto;
